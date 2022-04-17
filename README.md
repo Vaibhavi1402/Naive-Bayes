@@ -1,4 +1,7 @@
 # Naive-Bayes
+https://vaibhavi1402.github.io/Naive-Bayes/
+
+
 
 1) Prepare a classification model using Naive Bayes 
 for salary data 
